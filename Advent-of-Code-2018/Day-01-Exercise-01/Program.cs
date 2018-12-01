@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Advent_of_Code_2018
+namespace Day_01_Exercise_01
 {
     class Program
     {
